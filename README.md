@@ -73,3 +73,6 @@ src/
 svelte.config.js       → adapter-static yapılandırması
 vite.config.js
 ```
+
+
+
