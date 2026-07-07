@@ -1,0 +1,27 @@
+# Node
+/node_modules/
+
+# Build outputs
+/dist/
+/build/
+/public/build/
+
+# SvelteKit
+/.svelte-kit/
+
+# Vite
+/.vite/
+
+# Misc
+.env
+.env.*
+.DS_Store
+.vscode/
+.idea/
+*.log
+coverage/
+
+# Lockfiles (optional)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
